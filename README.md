@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>System Analysis and Design</b>
+  - [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)
 
 <h2> Certifications</h2>
 
-- <b>[Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)</b> 
+- <b>[Foundations of Project Management, Google](https://coursera.org/share/0237ebc352969e4601c2549ea10000e2)</b> 
    
 <h2> 🤳 Connect with me:</h2>
 
