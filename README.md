@@ -1,9 +1,24 @@
-<h1>Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineer Undergraduate</a>
+<h1>Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development:</h2>
 
 - <b>System Analysis and Design</b>
   - [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)
+
+- <b>Database Design and Implementation</b>
+  - [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)
+
+- <b>Java Console Application</b>
+  - [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)
+
+<h2>🎮 Game Development:</h2>
+
+- <b>Unreal Engine C++</b>
+  - [Dungeon Escape](https://github.com/emirsari/DungeonEscape)
+
+- <b>Unreal Engine Blueprints</b>
+  - [Flower Shop](https://github.com/emirsari/FlowerShop)
+  - [Gardening Simulator](https://github.com/emirsari/GardeningSimulator)
 
 <h2> Certifications</h2>
 
