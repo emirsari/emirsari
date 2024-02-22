@@ -19,6 +19,9 @@
 - <b>Unreal Engine Blueprints</b>
   - [Flower Shop](https://github.com/emirsari/FlowerShop)
   - [Gardening Simulator](https://github.com/emirsari/GardeningSimulator)
+ 
+- <b>Unity C#</b>
+  - [Trash Inventor](https://itch.io/jam/enhancer-gaming-hackathon/rate/2043203)
 
 <h2> Certifications</h2>
 
