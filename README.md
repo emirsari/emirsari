@@ -25,7 +25,8 @@
 
 <h2> Certifications</h2>
 
-- <b>[Foundations of Project Management, Google](https://coursera.org/share/0237ebc352969e4601c2549ea10000e2)</b> 
+- <b>[Foundations of Project Management, Google](https://coursera.org/share/0237ebc352969e4601c2549ea10000e2)</b>
+- <b>[Introduction to Game Design, CalArts](https://coursera.org/share/f28c12041f413dbf9cc1470207401062)</b> 
    
 <h2> 🤳 Connect with me:</h2>
 
