@@ -30,14 +30,13 @@
    
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="EmirSarı | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="EmirSarı | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 [instagram]: https://www.instagram.com/emirs_home/
 
+[<img align="left" alt="EmirSarı | LinkedIn" height="30px" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="emir-sarı-400a832b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/emir-sar%C4%B1-400a832b5?trk=profile-badge">Emir Sarı</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-              
+[linkedin]: www.linkedin.com/in/emir-sarı-400a832b5
 
 
 <!--
