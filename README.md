@@ -32,13 +32,20 @@
    
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="EmirSarı | LinkedIn" height="30px" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/emir-sar%C4%B1-400a832b5/
+
+[<img align="left" alt="EmirSarı | Discord" height="30px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+
+[discord]: https://discordapp.com/users/303133179152302082
+
 [<img align="left" alt="EmirSarı | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 
 [instagram]: https://www.instagram.com/emirs_home/
 
-[<img align="left" alt="EmirSarı | LinkedIn" height="30px" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/emir-sar%C4%B1-400a832b5/
+
 
 <!--
 **emirsari/emirsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
