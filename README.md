@@ -25,13 +25,14 @@
 
 <h2> Certifications</h2>
 
-- <b>[Foundations of Project Management, Google](https://coursera.org/share/0237ebc352969e4601c2549ea10000e2)</b>
-- <b>[Introduction to Game Design, CalArts](https://coursera.org/share/f28c12041f413dbf9cc1470207401062)</b>
 - <b>[Introduction to User Experience Design, Georgia Tech](https://coursera.org/share/4be1129c988f2f22b2ba7b8a51839df3)</b>
+- <b>[Introduction to Game Design, CalArts](https://coursera.org/share/f28c12041f413dbf9cc1470207401062)</b>
+- <b>[Foundations of Project Management, Google](https://coursera.org/share/0237ebc352969e4601c2549ea10000e2)</b>
+- <b>[International Free Task UAV Competition, TEKNOFEST](https://drdogrulama.sanayi.gov.tr/tr/verify/20113860991469?ref=email)</b>
    
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="EmirSarı | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="EmirSarı | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 
 [instagram]: https://www.instagram.com/emirs_home/
 
