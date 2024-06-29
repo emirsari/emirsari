@@ -47,7 +47,7 @@
 
 <br /><br /><br />
 <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirsari&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8"/>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 *NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code on github.
 
 
