@@ -5,7 +5,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| <h4>👨‍💻 Software Development</h4>   | 
+| **`👨‍💻 Software Development`**   | 
 | [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)   | The database design and implementation for a Discord-like instant messaging social platform created using Oracle SQL Developer. |
 | [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)   | The software system analysis and design for an online food ordering system prepared using Overleaf. | 
 | [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)     | A Java console application developed to simulate a client ordering from a restaurant menu. |
@@ -48,7 +48,9 @@
 <br /><br /><br />
 <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirsari&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8"/>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-*NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code on github.
+> [!NOTE]
+> The most used languages metric does not reflect my skill level, it simply indicates the languages in which I have the most code uploaded.
+
 
 
 
