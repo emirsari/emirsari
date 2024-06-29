@@ -45,6 +45,12 @@
 
 [instagram]: https://www.instagram.com/emirs_home/
 
+<br /><br /><br />
+<img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirsari&langs_count=8"/>
+
+
+
+
 
 
 
