@@ -1,26 +1,19 @@
 <h1>Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
 
-<h1 align="center">Projects</h1>
+<h2 align="center">Projects</h2>
 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| **`👨‍💻 Software Development`**   | 
+| **`👨‍💻Software Development`** | 
 | [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)   | The database design and implementation for a Discord-like instant messaging social platform created using Oracle SQL Developer. |
 | [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)   | The software system analysis and design for an online food ordering system prepared using Overleaf. | 
 | [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)     | A Java console application developed to simulate a client ordering from a restaurant menu. |
+| **`🎮Game Development`**  | 
 | [Dungeon Escape](https://github.com/emirsari/DungeonEscape)   |  A third-person dungeon escape game developed in Unreal Engine using C++. |
 | [Flower Shop](https://github.com/emirsari/FlowerShop)     | An educational florist game in the serious game genre, presented in a first-person perspective, developed in Unreal Engine using Blueprints. |
 | [Gardening Simulator](https://github.com/emirsari/GardeningSimulator)   |  An educational gardening game in the serious game genre, presented in a first-person perspective, developed in Unreal Engine using Blueprints. |
 | [Trash Inventor](https://itch.io/jam/enhancer-gaming-hackathon/rate/2043203)   | An award-winning game at the Enhancer Gaming Hackathon, focusing on the life of an engineer living on the streets, programmed with C# in the Unity Game Engine.
-
-
-
-
-
-
-
-<h2>🎮 Game Development:</h2>
 
 
 <h2> Certifications</h2>
