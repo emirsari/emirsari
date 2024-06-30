@@ -1,27 +1,20 @@
 <h1>Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
 
-<h2>👨‍💻 Software Development:</h2>
+<h2 align="center">Projects</h2>
 
-- <b>System Analysis and Design</b>
-  - [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)
 
-- <b>Database Design and Implementation</b>
-  - [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| **`👨‍💻Software Development`** | 
+| [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)   | The database design and implementation for a Discord-like instant messaging social platform created using Oracle SQL Developer. |
+| [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)   | The software system analysis and design for an online food ordering system prepared using Overleaf. | 
+| [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)     | A Java console application developed to simulate a client ordering from a restaurant menu. |
+| **`🎮Game Development`**  | 
+| [Dungeon Escape](https://github.com/emirsari/DungeonEscape)   |  A third-person dungeon escape game developed in Unreal Engine using C++. |
+| [Flower Shop](https://github.com/emirsari/FlowerShop)     | An educational florist game in the serious game genre, presented in a first-person perspective, developed in Unreal Engine using Blueprints. |
+| [Gardening Simulator](https://github.com/emirsari/GardeningSimulator)   |  An educational gardening game in the serious game genre, presented in a first-person perspective, developed in Unreal Engine using Blueprints. |
+| [Trash Inventor](https://itch.io/jam/enhancer-gaming-hackathon/rate/2043203)   | An award-winning game at the Enhancer Gaming Hackathon, focusing on the life of an engineer living on the streets, programmed with C# in the Unity Game Engine.
 
-- <b>Java Console Application</b>
-  - [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)
-
-<h2>🎮 Game Development:</h2>
-
-- <b>Unreal Engine C++</b>
-  - [Dungeon Escape](https://github.com/emirsari/DungeonEscape)
-
-- <b>Unreal Engine Blueprints</b>
-  - [Flower Shop](https://github.com/emirsari/FlowerShop)
-  - [Gardening Simulator](https://github.com/emirsari/GardeningSimulator)
- 
-- <b>Unity C#</b>
-  - [Trash Inventor](https://itch.io/jam/enhancer-gaming-hackathon/rate/2043203)
 
 <h2> Certifications</h2>
 
@@ -47,8 +40,11 @@
 
 <br /><br /><br />
 <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirsari&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8"/>
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-*NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code on github.
+> [!NOTE]
+> The most used languages metric does not reflect my skill level, it simply indicates the languages in which I have the most code uploaded.
+
 
 
 
