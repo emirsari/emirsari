@@ -1,6 +1,6 @@
-<h1>Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
+<h1 align="center">Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
 <br />
-<h2 align="center">Projects</h2>
+<h2 align="left">Projects</h2>
 
 <h3 align="left">👨‍💻Software Development </h3>
 
