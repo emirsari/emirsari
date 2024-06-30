@@ -46,7 +46,7 @@
 <br /><br /><br />
 <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirsari&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 > [!NOTE]
 > The most used languages metric does not reflect my skill level, it simply indicates the languages in which I have the most code uploaded.
 
