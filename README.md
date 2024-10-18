@@ -4,11 +4,11 @@
 
 <h3 align="left">👨‍💻Software Development </h3>
 
-|    |    | 
-| :---:        |    :----   |  
-| [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)   | The database design and implementation for a Discord-like instant messaging social platform created using Oracle SQL Developer. |
-| [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)   | The software system analysis and design for an online food ordering system prepared using Overleaf. | 
-| [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)     | A Java console application developed to simulate a client ordering from a restaurant menu. |
+|    |    |    |
+| :---:        |    :----   |    :----:   |
+| [Instant Messaging Social Platform](https://github.com/emirsari/InstantMessagingSocialPlatform)   | The database design and implementation for a Discord-like instant messaging social platform created using Oracle SQL Developer. | <p align="center"> <img alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> </p> |
+| [Online Food Ordering System](https://github.com/emirsari/OnlineFoodOrderingSystem)   | The software system analysis and design for an online food ordering system prepared using Overleaf. | <p align="center"> <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> <img alt="Overleaf" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /> </p> |
+| [Restaurant Menu](https://github.com/emirsari/RestaurantMenu)     | A Java console application developed to simulate a client ordering from a restaurant menu. | <p align="center"> <img alt="Java" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> </p> |
 
 <h3 align="left">🎮Game Development </h3>
 
