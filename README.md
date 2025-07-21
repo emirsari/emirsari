@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineering Undergraduate</a>
+<h1 align="center">Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineer | Project Manager | Game Developer</a>
 <br />
 <h2 align="left">Projects</h2>
 
