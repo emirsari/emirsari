@@ -46,11 +46,7 @@
 > [!NOTE]
 > The most used languages metric does not reflect my skill level, it simply indicates the languages in which I have the most code uploaded.
 
-
-
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emirsari&theme=default)
 
 
 <!--
