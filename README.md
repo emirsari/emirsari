@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Emir! <br/><a href="https://github.com/emirsari">Software Engineer | Project Manager | Game Developer</a>
+<h1 align="center">Hi, I'm Emir! <br/>Software Engineer | Project Manager</a>
+<br />
+<h1 align="center">Click For Up-To-Date <br/><a href="https://portfolio-emir-sari.web.app/">Portfolio</a>
 <br />
 <h2 align="left">Projects</h2>
 
